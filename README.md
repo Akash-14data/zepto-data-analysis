@@ -8,15 +8,16 @@ It covers schema creation, data import, cleaning, and business insight queries s
 - SQL (DDL + DML queries)
 
 ## 📊 Schema Setup
+### 1. Table data import 
 ![Schema Screenshot](Screenshot 2026-05-29 003852.png)
 
-### 1. Product Out of Stock vs In Stock
+### 2. Product Out of Stock vs In Stock
 ![Stock Analysis](Screenshot 2026-05-29 003852.png)
 
-### 2. Estimated Revenue for Each Category
+### 3. Estimated Revenue for Each Category
 ![Revenue Analysis](Screenshot 2026-05-29 005117.png)
 
-### 3. Group Products into Categories (Low, Medium, Bulk)
+### 4. Group Products into Categories (Low, Medium, Bulk)
 ![Category Grouping](Screenshot 2026-05-29 005303.png)
 
 
